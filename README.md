@@ -1,1 +1,1 @@
-# this is the repo for new gcp-devops-project
+# This is the repo for new gcp-devops-project
