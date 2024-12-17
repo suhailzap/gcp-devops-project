@@ -1,1 +1,4 @@
-# This is the repo for new gcp-devops-project
+# TDocker flask application
+
+- This ap is python
+- It shall be deployed in GKE
